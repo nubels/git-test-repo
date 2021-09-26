@@ -1,3 +1,3 @@
 # Git & Github - The Full Course
 
-I'm learning git!
+I'm learning git on Fireship!
